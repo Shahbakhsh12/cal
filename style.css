@@ -1,0 +1,30 @@
+.main {
+  width: 192px;
+  align-items: center;
+  justify-content: center;
+  /* border: 2px solid red; */
+  margin: 0 auto;
+}
+
+.result {
+  width: 96%;
+  background-color: grey;
+  color: #ffffff;
+  border-radius: 1px;
+}
+.ClearBtn {
+  width: 193px;
+  font-size: 12px;
+  color: deeppink;
+  margin-top: 2px;
+}
+
+.Btn {
+  width: 45px;
+  color: crimson;
+  margin-top: 2px;
+}
+.halfBtn {
+  margin-top: 3px;
+  color: crimson;
+}
